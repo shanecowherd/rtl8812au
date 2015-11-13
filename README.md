@@ -1,3 +1,5 @@
+Note (Ubuntu 15.04): sudo apt-get install linux-headers-generic
+
 ## Realtek 802.11ac (rtl8812au)
 
 This is a fork of the Realtek 802.11ac (rtl8812au) v4.2.2 (7502.20130507)
